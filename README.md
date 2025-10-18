@@ -1,2 +1,3 @@
-# estacion-ambiental
- Estación de monitoreo ambiental con ESP32/Arduino, Python y dashboard.
+# Estación Ambiental
+Proyecto de monitoreo ambiental con ESP32/Arduino, Python, dashboard y alertas por Telegram.
+
